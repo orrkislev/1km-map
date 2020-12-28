@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { MapContainer, TileLayer, LayerGroup, Circle, Tooltip } from 'react-leaflet'
+import { MapContainer, TileLayer, LayerGroup, Circle } from 'react-leaflet'
 
 import 'leaflet/dist/leaflet.css';
 import './App.css';
